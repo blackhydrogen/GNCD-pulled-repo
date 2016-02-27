@@ -1,0 +1,23 @@
+{
+  "name": "gncd-pulled-repo",
+  "version": "1.0.0",
+  "description": "4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackhydrogen/GNCD-pulled-repo.git"
+  },
+  "author": "Ian L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackhydrogen/GNCD-pulled-repo/issues"
+  },
+  "homepage": "https://github.com/blackhydrogen/GNCD-pulled-repo#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
