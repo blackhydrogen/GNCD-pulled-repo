@@ -10,7 +10,7 @@ var httpPort = 23443;
 app.use(bodyParser.json());
 
 app.get("*", function(req, res) {
-	res.send("HELLO WORLD ON PORT 23443").end();
+	res.send("HELLO WORLD ON PORT 23443.").end();
 });
 
 server.listen(httpPort, function() {
